@@ -48,5 +48,4 @@ Problem 15 – Plastic Waste Classifier Using Computer Vision[cite: 1]. The goal
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/plastic-waste-classifier.git](https://github.com/YOUR_USERNAME/plastic-waste-classifier.git)
-   cd plastic-waste-classifierplastic-waste-classifier
+   https://github.com/Dishalohar/plastic-waste-classifier.git
